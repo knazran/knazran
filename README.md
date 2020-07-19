@@ -1,7 +1,7 @@
 ## Hello! 👋  My name is Khairul Nazran but you can call me Naz 
 I am someone who cleans your data, provide the plumbing, and make sense out of it. Occasionally builds web and mobile apps. A serial hackathoner (lost count at 22 hackathons over 4 years) and has too many unbuilt software ideas in his Notion notes.
 
-Currently working as a Data Engineer at Bank Negara Malaysia (Central Bank of Malaysia) and based in Kuala Lumpur, Malaysia. Although still actively building web and mobile apps as a hobby.
+Currently working as a Data Engineer at Bank Negara Malaysia (Central Bank of Malaysia) and based in Kuala Lumpur, Malaysia 🇲🇾. Although still actively building web and mobile apps as a hobby.
 
 ### What I am good at 💪
 - Data science & analytics
