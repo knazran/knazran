@@ -13,6 +13,7 @@ Currently working as a Data Engineer at Bank Negara Malaysia (Central Bank of Ma
 ### What I am currently learning 🌱 
 - [Vue](https://vuejs.org/) 
 - [Meltano](https://meltano.com/)
+- [DBT](https://www.getdbt.com/)
 
 ### Past Projects:
 1. [Sendu.life](https://sendu.life/) - A simple website for your melancholic, *sendu* needs. A side project which I made to learn React
